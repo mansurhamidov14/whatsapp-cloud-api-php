@@ -1,0 +1,21 @@
+{
+    "name": "twelver313/whatsapp-cloud-api",
+    "description": "Simple WhatsApp Cloud API for sending templates and messages",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Twelver313\\WhatsAppCloudApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mansur Hamidov",
+            "email": "mansur.hamidov.19@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.6 | ^7 | ^8"
+    }
+}
